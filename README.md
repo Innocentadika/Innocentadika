@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on projects.<br>👯 I’m looking to collaborate on Python, Nextjs, and React.<br>🤝 I’m looking for a Job.<br>🌱 I’m currently learning Python and flutter.<br>💬 Ask me about web development.<br>📫 How to reach me:+254741564870.<br>⚡ Fun fact I love laughing.
+🔭 I’m currently working on projects.<br>👯 I’m looking to collaborate on Python, Nextjs, and React.<br>🤝 I’m looking for a Job.<br>🌱 I’m currently doing Python and flutter.<br>💬 Ask me about web development.<br>📫 How to reach me:+254741564870.<br>⚡ Fun fact I love laughing.
 
 
 ## 🌐 Socials:
